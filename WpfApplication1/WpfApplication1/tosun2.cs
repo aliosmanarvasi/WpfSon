@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace WpfApplication1
 {
-    class tosun
+    class tosun2
     {
-
-        int id = 0;
-
+        string muhammed;
+       
     }
 }
