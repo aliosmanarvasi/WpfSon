@@ -8,6 +8,6 @@ namespace WpfApplication1
 {
     class tosun
     {
-
+        string muhammed2;
     }
 }
