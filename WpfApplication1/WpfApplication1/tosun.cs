@@ -11,5 +11,6 @@ namespace WpfApplication1
 
         int id = 0;
 
+        string muhammed2;
     }
 }
