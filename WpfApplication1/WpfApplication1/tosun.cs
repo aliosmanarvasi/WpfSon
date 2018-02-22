@@ -8,5 +8,7 @@ namespace WpfApplication1
 {
     class tosun
     {
+        int id = 0;
+
     }
 }
