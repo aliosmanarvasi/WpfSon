@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace WpfApplication1
 {
-    class tosun
+    class tosun2
     {
-
+        string muhammed;
+       
     }
 }
